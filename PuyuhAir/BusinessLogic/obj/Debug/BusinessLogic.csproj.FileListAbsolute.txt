@@ -1,0 +1,12 @@
+C:\Users\COMMAND\source\repos\PuyuhAir\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\COMMAND\source\repos\PuyuhAir\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\COMMAND\source\repos\PuyuhAir\BusinessLogic\bin\Debug\BusinessDomainObject.dll
+C:\Users\COMMAND\source\repos\PuyuhAir\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\COMMAND\source\repos\PuyuhAir\BusinessLogic\bin\Debug\BusinessDomainObject.pdb
+C:\Users\COMMAND\source\repos\PuyuhAir\BusinessLogic\bin\Debug\BusinessDomainObject.dll.config
+C:\Users\COMMAND\source\repos\PuyuhAir\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\COMMAND\source\repos\PuyuhAir\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\COMMAND\source\repos\PuyuhAir\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\COMMAND\source\repos\PuyuhAir\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\COMMAND\source\repos\PuyuhAir\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\COMMAND\source\repos\PuyuhAir\BusinessLogic\obj\Debug\BusinessLogic.pdb

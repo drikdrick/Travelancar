@@ -1,0 +1,17 @@
+C:\Users\COMMAND\source\repos\HotelKasurEmpuk\ServiceInterfaceLayer\bin\Debug\ServiceInterfaceLayer.dll.config
+C:\Users\COMMAND\source\repos\HotelKasurEmpuk\ServiceInterfaceLayer\bin\Debug\ServiceInterfaceLayer.dll
+C:\Users\COMMAND\source\repos\HotelKasurEmpuk\ServiceInterfaceLayer\bin\Debug\ServiceInterfaceLayer.pdb
+C:\Users\COMMAND\source\repos\HotelKasurEmpuk\ServiceInterfaceLayer\bin\Debug\BusinessDomainObject.dll
+C:\Users\COMMAND\source\repos\HotelKasurEmpuk\ServiceInterfaceLayer\bin\Debug\BusinessLogic.dll
+C:\Users\COMMAND\source\repos\HotelKasurEmpuk\ServiceInterfaceLayer\bin\Debug\EntityFramework.dll
+C:\Users\COMMAND\source\repos\HotelKasurEmpuk\ServiceInterfaceLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\COMMAND\source\repos\HotelKasurEmpuk\ServiceInterfaceLayer\bin\Debug\BusinessDomainObject.pdb
+C:\Users\COMMAND\source\repos\HotelKasurEmpuk\ServiceInterfaceLayer\bin\Debug\BusinessDomainObject.dll.config
+C:\Users\COMMAND\source\repos\HotelKasurEmpuk\ServiceInterfaceLayer\bin\Debug\BusinessLogic.pdb
+C:\Users\COMMAND\source\repos\HotelKasurEmpuk\ServiceInterfaceLayer\bin\Debug\EntityFramework.xml
+C:\Users\COMMAND\source\repos\HotelKasurEmpuk\ServiceInterfaceLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\COMMAND\source\repos\HotelKasurEmpuk\ServiceInterfaceLayer\obj\Debug\ServiceInterfaceLayer.csprojAssemblyReference.cache
+C:\Users\COMMAND\source\repos\HotelKasurEmpuk\ServiceInterfaceLayer\obj\Debug\ServiceInterfaceLayer.csproj.CoreCompileInputs.cache
+C:\Users\COMMAND\source\repos\HotelKasurEmpuk\ServiceInterfaceLayer\obj\Debug\ServiceInterfaceLayer.csproj.CopyComplete
+C:\Users\COMMAND\source\repos\HotelKasurEmpuk\ServiceInterfaceLayer\obj\Debug\ServiceInterfaceLayer.dll
+C:\Users\COMMAND\source\repos\HotelKasurEmpuk\ServiceInterfaceLayer\obj\Debug\ServiceInterfaceLayer.pdb

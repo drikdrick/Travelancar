@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PinguinAirModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Penerbangan">
+    <Key>
+      <PropertyRef Name="PenerbanganID" />
+    </Key>
+    <Property Name="PenerbanganID" Type="Int32" Nullable="false" />
+    <Property Name="Pesawat" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="JlhKursi" Type="Int32" />
+    <Property Name="Harga" Type="Int32" />
+    <Property Name="Asal" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="Tujuan" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="Terbang" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="PinguinAirEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Penerbangan" EntityType="Self.Penerbangan" />
+  </EntityContainer>
+</Schema>

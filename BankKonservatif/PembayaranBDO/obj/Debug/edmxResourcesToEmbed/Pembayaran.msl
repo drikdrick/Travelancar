@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BankKonservatifModelStoreContainer" CdmEntityContainer="BankKonservatifEntities">
+    <EntitySetMapping Name="Pembayarans">
+      <EntityTypeMapping TypeName="BankKonservatifModel.Pembayaran">
+        <MappingFragment StoreEntitySet="Pembayaran">
+          <ScalarProperty Name="invoice_number" ColumnName="invoice_number" />
+          <ScalarProperty Name="waktu_pemesanan" ColumnName="waktu_pemesanan" />
+          <ScalarProperty Name="waktu_pembayaran" ColumnName="waktu_pembayaran" />
+          <ScalarProperty Name="nominal" ColumnName="nominal" />
+          <ScalarProperty Name="status_bayar" ColumnName="status_bayar" />
+          <ScalarProperty Name="norek_bayar" ColumnName="norek_bayar" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

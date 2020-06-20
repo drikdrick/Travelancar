@@ -1,0 +1,12 @@
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranBDO\bin\Debug\PembayaranBDO.dll.config
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranBDO\bin\Debug\PembayaranBDO.dll
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranBDO\bin\Debug\PembayaranBDO.pdb
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranBDO\bin\Debug\EntityFramework.dll
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranBDO\bin\Debug\EntityFramework.SqlServer.dll
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranBDO\bin\Debug\EntityFramework.xml
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranBDO\bin\Debug\EntityFramework.SqlServer.xml
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranBDO\obj\Debug\PembayaranBDO.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranBDO\obj\Debug\PembayaranBDO.csproj.CopyComplete
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranBDO\obj\Debug\PembayaranBDO.dll
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranBDO\obj\Debug\PembayaranBDO.pdb
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranBDO\obj\Debug\PembayaranBDO.csprojAssemblyReference.cache

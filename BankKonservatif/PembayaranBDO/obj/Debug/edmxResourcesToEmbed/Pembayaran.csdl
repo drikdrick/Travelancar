@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BankKonservatifModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Pembayaran">
+    <Key>
+      <PropertyRef Name="invoice_number" />
+    </Key>
+    <Property Name="invoice_number" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="waktu_pemesanan" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="waktu_pembayaran" Type="DateTime" Precision="3" />
+    <Property Name="nominal" Type="Double" Nullable="false" />
+    <Property Name="status_bayar" Type="Int32" Nullable="false" />
+    <Property Name="norek_bayar" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="BankKonservatifEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Pembayarans" EntityType="Self.Pembayaran" />
+  </EntityContainer>
+</Schema>

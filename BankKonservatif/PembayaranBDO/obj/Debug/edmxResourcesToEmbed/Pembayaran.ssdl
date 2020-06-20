@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BankKonservatifModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Pembayaran">
+    <Key>
+      <PropertyRef Name="invoice_number" />
+    </Key>
+    <Property Name="invoice_number" Type="char" MaxLength="10" Nullable="false" />
+    <Property Name="waktu_pemesanan" Type="datetime" Nullable="false" />
+    <Property Name="waktu_pembayaran" Type="datetime" />
+    <Property Name="nominal" Type="float" Nullable="false" />
+    <Property Name="status_bayar" Type="int" Nullable="false" />
+    <Property Name="norek_bayar" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="BankKonservatifModelStoreContainer">
+    <EntitySet Name="Pembayaran" EntityType="Self.Pembayaran" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

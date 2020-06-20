@@ -1,0 +1,17 @@
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranService\obj\Debug\PembayaranService.csprojAssemblyReference.cache
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranService\obj\Debug\PembayaranService.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranService\bin\Debug\PembayaranService.dll.config
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranService\bin\Debug\PembayaranService.dll
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranService\bin\Debug\PembayaranService.pdb
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranService\bin\Debug\PembayaranBDO.dll
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranService\bin\Debug\PembayaranBL.dll
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranService\bin\Debug\EntityFramework.dll
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranService\bin\Debug\PembayaranBDO.pdb
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranService\bin\Debug\PembayaranBDO.dll.config
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranService\bin\Debug\PembayaranBL.pdb
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranService\bin\Debug\EntityFramework.xml
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranService\obj\Debug\PembayaranService.csproj.CopyComplete
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranService\obj\Debug\PembayaranService.dll
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranService\obj\Debug\PembayaranService.pdb
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranService\bin\Debug\EntityFramework.SqlServer.dll
+C:\xampp\htdocs\TEKNET\travelancar\App\WEB SERVICE\WCF_BankKonservatif\PembayaranService\bin\Debug\EntityFramework.SqlServer.xml

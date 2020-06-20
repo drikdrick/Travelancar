@@ -1,0 +1,12 @@
+C:\Users\COMMAND\source\repos\HotelMawarMelati\BusinessDomainObject\bin\Debug\BusinessDomainObject.dll.config
+C:\Users\COMMAND\source\repos\HotelMawarMelati\BusinessDomainObject\bin\Debug\BusinessDomainObject.dll
+C:\Users\COMMAND\source\repos\HotelMawarMelati\BusinessDomainObject\bin\Debug\BusinessDomainObject.pdb
+C:\Users\COMMAND\source\repos\HotelMawarMelati\BusinessDomainObject\bin\Debug\EntityFramework.dll
+C:\Users\COMMAND\source\repos\HotelMawarMelati\BusinessDomainObject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\COMMAND\source\repos\HotelMawarMelati\BusinessDomainObject\bin\Debug\EntityFramework.xml
+C:\Users\COMMAND\source\repos\HotelMawarMelati\BusinessDomainObject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\COMMAND\source\repos\HotelMawarMelati\BusinessDomainObject\obj\Debug\BusinessDomainObject.csprojAssemblyReference.cache
+C:\Users\COMMAND\source\repos\HotelMawarMelati\BusinessDomainObject\obj\Debug\BusinessDomainObject.csproj.CoreCompileInputs.cache
+C:\Users\COMMAND\source\repos\HotelMawarMelati\BusinessDomainObject\obj\Debug\BusinessDomainObject.csproj.CopyComplete
+C:\Users\COMMAND\source\repos\HotelMawarMelati\BusinessDomainObject\obj\Debug\BusinessDomainObject.dll
+C:\Users\COMMAND\source\repos\HotelMawarMelati\BusinessDomainObject\obj\Debug\BusinessDomainObject.pdb

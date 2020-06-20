@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ItikAirModelStoreContainer" CdmEntityContainer="ItikAirEntities">
+    <EntitySetMapping Name="Penerbangan">
+      <EntityTypeMapping TypeName="ItikAirModel.Penerbangan">
+        <MappingFragment StoreEntitySet="Penerbangan">
+          <ScalarProperty Name="PenerbanganID" ColumnName="PenerbanganID" />
+          <ScalarProperty Name="Pesawat" ColumnName="Pesawat" />
+          <ScalarProperty Name="JlhKursi" ColumnName="JlhKursi" />
+          <ScalarProperty Name="Harga" ColumnName="Harga" />
+          <ScalarProperty Name="Asal" ColumnName="Asal" />
+          <ScalarProperty Name="Tujuan" ColumnName="Tujuan" />
+          <ScalarProperty Name="Terbang" ColumnName="Terbang" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

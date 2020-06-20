@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Travelancar</h1>
+    <p class="lead">Never feels good? You should travel with us!.</p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Flight</h2>
+        <p>
+            Best Flight offers!
+        </p>
+        <button class="btn-danger">@Html.ActionLink("Browse", "About", "Home")</button>
+    </div>
+    <div class="col-md-4">
+    </div>
+    <div class="col-md-4">
+        <h2 center>Hotel</h2>
+        <p>Best Hotel with Best Deals!</p>
+        <button class="btn-danger">@Html.ActionLink("Browse", "Contact", "Home")</button>
+    </div>
+</div>

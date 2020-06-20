@@ -1,0 +1,66 @@
+.container{
+	box-sizing: border-box;
+	width: 1200px;
+	height: 400px;
+	margin: 65px auto;
+}
+.header{
+	padding: 2%;
+	text-align: center;
+	font-size: 30px;
+	text-shadow: 20px;
+}
+.mdl{
+	background-color: #a65858;
+	width:50%;
+	height: 400px;
+	float: right;
+}
+.mdl:hover{
+	background-color: #1f9485;
+}
+.awl{
+	background-color: #80804c;
+	width: 50%;
+	height: 400px;
+	float: left;
+}
+.awl:hover{
+	background-color: #1f9485;
+}
+#lgn{
+	width : 90%;
+	height : 90%;
+	padding: 20px 15px 20px 35px;
+}
+form{
+	width: 85%;
+	height: 70%;
+	background-color: white;
+	margin: 60px auto;
+	padding: 10px 10px;	
+}
+table{
+	border-radius: 10px;
+}
+.ktk_lgn{
+	box-sizing: border-box;
+	width: 350px;
+	font-family: sans-serif;
+	padding: 10px;
+	font-size:15px;
+	margin-bottom:15px;
+}
+label{
+	font-size: 15px;
+	text-align: center;
+}
+.btm{
+	background-color: #46de4b;
+	color: white;
+	font-size: 13px;
+	width: 100%;
+	border: none;
+	border-radius: 2px;
+	padding: 10px 20px;
+}
